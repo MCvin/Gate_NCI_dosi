@@ -13,8 +13,8 @@ Inputs:
   - data/activity_ranges/ActivityRange_{source_id}.dat
   - data/NCI_{model}_GateMaterials.db
   - data/NCI_{model}_LabelsToMaterials.txt
-  - data/NCI_models/NCI_{model}_*.mhd
-  - data/NCI_models/NCI_{model}_*.raw
+  - data/NCI_models/NCI_{model}_model.mhd
+  - data/NCI_models/NCI_{model}_model.raw
 
 Outputs:
   - output/{job}_{model}-DoseByRegions.txt
