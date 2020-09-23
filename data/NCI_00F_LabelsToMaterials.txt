@@ -1,4 +1,4 @@
-0 1 Air_outside_body
+0 1 Air
 1 2 Fat
 2 4 Adrenals
 4 5 Brain

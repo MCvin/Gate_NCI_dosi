@@ -17,7 +17,7 @@ Iodine:     S= I  ; Z= 53. ; A= 126.90  g/mole
 
 [Materials]
 
-Air_outside_body: d=0.00120479 g/cm3 ; n=4 ; state=gas
+Air: d=0.00120479 g/cm3 ; n=4 ; state=gas
 +el: name=Nitrogen ; f=0.755268
 +el: name=Oxygen ; f=0.231781
 +el: name=Argon ; f=0.012827
@@ -497,11 +497,6 @@ Soft_tissue-F: d=1.020000 g/cm3 ; n=9
 Water: d=1.000000 g/cm3 ; n=2
 +el: name=Hydrogen ; f=0.112000
 +el: name=Oxygen ; f=0.888000
-
-Air: d=0.001300 g/cm3 ; n=3
-+el: name=Carbon ; f=0.000124
-+el: name=Nitrogen ; f=0.755267
-+el: name=Oxygen ; f=0.231781
 
 Lens: d=1.070000 g/cm3 ; n=8
 +el: name=Hydrogen ; f=0.096000
