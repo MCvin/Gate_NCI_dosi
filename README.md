@@ -7,7 +7,7 @@ Author: Maxime Chauvin, maxime.chauvin@inserm.fr
 Last revision: 22-09-2020
 
 Usage example, for mono energetic source:
-  Gate -a [model,00F][source,95][particle,gamma][energy,1][nb,1e5][job,1] mac/main.mac
+  Gate -a [source,25][particle,gamma][energy,1][nb,1e5][job,1] mac/main_{model}.mac
 
 Inputs:
   - data/activity_ranges/NCI_ActivityRange_{source}.dat
