@@ -380,7 +380,7 @@ Breast_glandular_M/F: d=1.020000 g/cm3 ; n=10
 +el: name=Potassium ; f=0.000385
 +el: name=Iron ; f=0.000192
 
-Testes: d=0.000000 g/cm3 ; n=10
+Testes: d=1.040000 g/cm3 ; n=10
 +el: name=Hydrogen ; f=0.105736
 +el: name=Carbon ; f=0.099725
 +el: name=Nitrogen ; f=0.020857
@@ -392,7 +392,7 @@ Testes: d=0.000000 g/cm3 ; n=10
 +el: name=Potassium ; f=0.002000
 +el: name=Iron ; f=0.000066
 
-Prostate: d=0.000000 g/cm3 ; n=10
+Prostate: d=1.030000 g/cm3 ; n=10
 +el: name=Hydrogen ; f=0.104423
 +el: name=Carbon ; f=0.227906
 +el: name=Nitrogen ; f=0.028155

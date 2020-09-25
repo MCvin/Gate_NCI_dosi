@@ -416,7 +416,7 @@ Breast_50/50_M//F: d=0.940000 g/cm3 ; n=10
 +el: name=Potassium ; f=0.000152
 +el: name=Iron ; f=0.000076
 
-Ovaries: d=0.000000 g/cm3 ; n=10
+Ovaries: d=1.050000 g/cm3 ; n=10
 +el: name=Hydrogen ; f=0.104793
 +el: name=Carbon ; f=0.245920
 +el: name=Nitrogen ; f=0.027414
@@ -439,7 +439,7 @@ Fallopian_tubes: d=1.030000 g/cm3 ; n=9
 +el: name=Chlorine ; f=0.001000
 +el: name=Potassium ; f=0.002000
 
-Uterus: d=0.000000 g/cm3 ; n=10
+Uterus: d=1.050000 g/cm3 ; n=10
 +el: name=Hydrogen ; f=0.105696
 +el: name=Carbon ; f=0.299434
 +el: name=Nitrogen ; f=0.024683
